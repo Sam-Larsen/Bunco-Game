@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 /**
  * @author Sam Larsen
- * Assignment 4
+ * 
+ * Assignment 4 Bunco!
  * October 31, 2022
  * Written/online sources used: none
  * Help obtained: none
